@@ -1,0 +1,3 @@
+[submodule "LifeMateServer"]
+	path = LifeMateServer
+	url = https://github.com/xhnya/LifeMateServer.git
