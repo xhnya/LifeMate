@@ -1,3 +1,6 @@
 [submodule "LifeMateServer"]
 	path = LifeMateServer
 	url = https://github.com/xhnya/LifeMateServer.git
+[submodule "life_mate_flutter"]
+	path = life_mate_flutter
+	url = https://github.com/xhnya/life_mate_flutter.git
