@@ -5,5 +5,5 @@
 	path = life_mate_flutter
 	url = https://github.com/xhnya/life_mate_flutter.git
 [submodule "LifeMateMonolith"]
-	path = life_mate_flutter
+	path = LifeMateMonolith
 	url = https://github.com/xhnya/LifeMateMonolith.git
