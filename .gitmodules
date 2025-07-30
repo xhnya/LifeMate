@@ -7,3 +7,6 @@
 [submodule "LifeMateMonolith"]
 	path = LifeMateMonolith
 	url = https://github.com/xhnya/LifeMateMonolith.git
+[submodule "learning-record-web"]
+	path = learning-record-web
+	url = https://github.com/xhnya/learning-record-web.git
